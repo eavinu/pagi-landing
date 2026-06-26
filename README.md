@@ -18,6 +18,11 @@ python -m http.server 5177
 
 `http://127.0.0.1:5177/`
 
+## כתובות אונליין
+
+- Vercel production: https://pagi-landing.vercel.app
+- GitHub repo: https://github.com/eavinu/pagi-landing
+
 ## פרטים עסקיים עדכניים
 
 - כתובת: סדן 12, רובע האמנים, ערד

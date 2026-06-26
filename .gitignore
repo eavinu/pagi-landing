@@ -1,4 +1,8 @@
+# local provider state
+.vercel/
+
 # OS/editor
 .DS_Store
 Thumbs.db
 .vscode/
+
